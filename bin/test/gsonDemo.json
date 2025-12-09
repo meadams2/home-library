@@ -1,0 +1,31 @@
+[{
+  "title": "Title",
+  "author": "Author",
+  "isbn": "1234567890",
+  "location": "Location",
+  "checkoutStatus": false
+},{
+  "title": "Title",
+  "author": "Author",
+  "isbn": "1234567890",
+  "location": "Location",
+  "checkoutStatus": false
+},{
+  "title": "Title",
+  "author": "Author",
+  "isbn": "1234567890",
+  "location": "Location",
+  "checkoutStatus": false
+},{
+  "title": "Title",
+  "author": "Author",
+  "isbn": "1234567890",
+  "location": "Location",
+  "checkoutStatus": false
+},{
+  "title": "Title",
+  "author": "Author",
+  "isbn": "1234567890",
+  "location": "Location",
+  "checkoutStatus": false
+}]

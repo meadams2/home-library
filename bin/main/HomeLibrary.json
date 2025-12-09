@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "JK Rowling",
+    "isbn": "978-0747550990",
+    "location": "Office",
+    "checkoutStatus": true,
+    "checkoutHistory": [
+      {
+        "name": "Kyla Williams",
+        "checkoutDate": "2025-11-13",
+        "dueDate": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J Maas",
+    "isbn": "978-1635575569",
+    "location": "Office",
+    "checkoutStatus": false,
+    "checkoutHistory": []
+  },
+  {
+    "title": "Cyrano de Bergerac (French)",
+    "author": "Edmond Rostand",
+    "isbn": "978-2080705266",
+    "location": "Office",
+    "checkoutStatus": false,
+    "checkoutHistory": []
+  },
+  {
+    "title": "Cyrano de Bergerac (English)",
+    "author": "Edmond Rostand",
+    "isbn": "978-1854591173",
+    "location": "Office",
+    "checkoutStatus": false,
+    "checkoutHistory": []
+  },
+  {
+    "title": "Differential Equations",
+    "author": "Marianne Adams",
+    "isbn": "",
+    "location": "Office",
+    "checkoutStatus": false,
+    "checkoutHistory": []
+  },
+  {
+    "title": "Why Machines Learn",
+    "author": "Anil Ananthaswamy",
+    "isbn": "978-0-593-18576-6",
+    "location": "Bookbag",
+    "checkoutStatus": false,
+    "checkoutHistory": []
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "isbn": "9780142410370",
+    "location": "Office",
+    "checkoutStatus": true,
+    "checkoutHistory": [
+      {
+        "name": "Carter Leckron",
+        "checkoutDate": "2025-11-13",
+        "dueDate": "2025-11-27"
+      }
+    ]
+  }
+]

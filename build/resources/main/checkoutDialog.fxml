@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="400.0" prefWidth="600.0"
+      xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="edu.bsu.cs.graphic.CheckoutDialogController">
+    <Label text="Enter Borrower Name: ">
+        <font>
+          <Font name="Gill Sans MT" size="14.0"/>
+        </font>
+        <opaqueInsets>
+          <Insets/>
+        </opaqueInsets>
+        <VBox.margin>
+          <Insets left="8.0" right="8.0" top="8.0"/>
+        </VBox.margin>
+    </Label>
+    <TextField fx:id="borrowerField" promptText="Borrower Name">
+        <padding>
+          <Insets left="8.0" top="8.0"/>
+        </padding>
+        <VBox.margin>
+          <Insets left="8.0" right="8.0" top="8.0"/>
+        </VBox.margin>
+        <opaqueInsets>
+          <Insets bottom="4.0" left="4.0" right="4.0" top="4.0"/>
+        </opaqueInsets>
+    </TextField>
+    <HBox prefHeight="100.0" prefWidth="200.0">
+        <Button fx:id="cancelCheckoutButton" mnemonicParsing="false" onAction="#handleCancel" text="Cancel">
+            <HBox.margin>
+                <Insets bottom="8.0" left="20.0" right="20.0" top="8.0"/>
+            </HBox.margin>
+        </Button>
+        <Button fx:id="confirmCheckoutButton" mnemonicParsing="false" onAction="#handleConfirm" text="Confirm">
+            <HBox.margin>
+                <Insets bottom="8.0" left="20.0" right="20.0" top="8.0"/>
+            </HBox.margin>
+        </Button>
+    </HBox>
+</VBox>
