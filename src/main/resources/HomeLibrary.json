@@ -20,6 +20,11 @@
         "name": "Mari",
         "checkoutDate": "2025-12-04",
         "dueDate": "2025-12-18"
+      },
+      {
+        "name": "",
+        "checkoutDate": "2026-09-30",
+        "dueDate": "2026-10-14"
       }
     ]
   },
@@ -90,24 +95,5 @@
     "location": "Bookbag",
     "checkoutStatus": false,
     "checkoutHistory": []
-  },
-  {
-    "title": "Matilda",
-    "author": "Roald Dahl",
-    "isbn": "9780142410370",
-    "location": "Office",
-    "checkoutStatus": false,
-    "checkoutHistory": [
-      {
-        "name": "Carter Leckron",
-        "checkoutDate": "2025-11-13",
-        "dueDate": "2025-11-27"
-      },
-      {
-        "name": "Liz",
-        "checkoutDate": "2025-12-06",
-        "dueDate": "2025-12-20"
-      }
-    ]
   }
 ]
